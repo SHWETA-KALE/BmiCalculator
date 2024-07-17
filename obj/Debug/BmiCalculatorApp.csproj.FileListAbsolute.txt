@@ -1,0 +1,7 @@
+D:\Assignments\BmiCalculatorApp\bin\Debug\BmiCalculatorApp.exe.config
+D:\Assignments\BmiCalculatorApp\bin\Debug\BmiCalculatorApp.exe
+D:\Assignments\BmiCalculatorApp\bin\Debug\BmiCalculatorApp.pdb
+D:\Assignments\BmiCalculatorApp\obj\Debug\BmiCalculatorApp.csproj.AssemblyReference.cache
+D:\Assignments\BmiCalculatorApp\obj\Debug\BmiCalculatorApp.csproj.CoreCompileInputs.cache
+D:\Assignments\BmiCalculatorApp\obj\Debug\BmiCalculatorApp.exe
+D:\Assignments\BmiCalculatorApp\obj\Debug\BmiCalculatorApp.pdb
